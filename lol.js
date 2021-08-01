@@ -1,1 +1,2 @@
-const js = 5
+const js = 64
+const ps = 4
